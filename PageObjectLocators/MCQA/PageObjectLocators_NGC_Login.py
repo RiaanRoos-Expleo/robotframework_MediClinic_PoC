@@ -1,0 +1,5 @@
+ngc_mcqa_112_UsernameTextbox="//input[contains(@name,'loginfmt')]"
+ngc_mcqa_112_nextBtn="//input[contains(@id,'idSIButton9')]"
+ngc_mcqa_112_PwdTextbox="//input[contains(@name,'passwd')]"
+ngc_mcqa_112_validateText="//div[contains(text(),'Stay signed in?')]"
+ngc_mcqa_112_noBtn="//input[contains(@id,'idBtn_Back')]"

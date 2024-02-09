@@ -1,0 +1,5 @@
+avaya_loginButton="//div//span//span[contains(text(),'Login to Avaya')]"
+avaya_login_popup="xpath://div[contains(@class,'modal-content')]"
+avaya_usernameTextBox="xpath://input[@placeholder='afhcnet\CADTrain3']"
+avaya_passwordTextbox="xpath://input[@placeholder='Please Enter Password']"
+avaya_submitBtn="xpath://div[@class='mt-3 text-right']//button"
