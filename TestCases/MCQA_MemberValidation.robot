@@ -2,15 +2,15 @@
 Resource        ${EXECDIR}/Resources/presets.resource
 Test Setup    Launch Application Under Test
 
-Documentation    User Story: Manual Case Log
+Documentation    User Story: Member Validation
 ...              ...
 ...              ..
 
 *** Test Cases ***
-Manual Case Logginig With Vodacom Client   
-    [Tags]      VodacomCaseLogManagement    Regression
+Validate Member  
+    [Tags]      validateMember    Regression
     Login with valid credentials
-    Vodacom Case Log
+    Member Validation
     
 
 
